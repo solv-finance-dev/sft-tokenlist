@@ -1,2 +1,3 @@
-# sft-vesting-tokenlist
-SFT labs vesting
+# sft-tokenlist
+
+SFT labs vesting tokenlists

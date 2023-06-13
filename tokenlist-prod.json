@@ -1,0 +1,34 @@
+{
+  "name": "SFT Token List",
+  "timestamp": "2023-06-06T06:53:12.720046318Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {
+    "common": {
+      "name": "Common Tokens",
+      "description": "Common erc20 tokens"
+    },
+    "nft": {
+      "name": "SFT",
+      "description": "ERC721 Non Fungible Token Standard"
+    },
+    "voucher": {
+      "name": "SFT",
+      "description": "Based on ERC3525"
+    },
+    "vesting": {
+      "name": "One of SFT type",
+      "description": "Based on ERC3525"
+    },
+    "flexible": {
+      "name": "One of SFT type",
+      "description": "Based on ERC3525"
+    }
+  },
+  "logoURI": "",
+  "keywords": ["voucher", "nft", "vesting", "flexible"],
+  "tokens": []
+}

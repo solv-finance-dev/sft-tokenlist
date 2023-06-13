@@ -1,0 +1,131 @@
+{
+  "name": "SFT Token List",
+  "timestamp": "2023-06-06T06:53:12.720046318Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {
+    "common": {
+      "name": "Common Tokens",
+      "description": "Common erc20 tokens"
+    },
+    "nft": {
+      "name": "SFT",
+      "description": "ERC721 Non Fungible Token Standard"
+    },
+    "voucher": {
+      "name": "SFT",
+      "description": "Based on ERC3525"
+    },
+    "vesting": {
+      "name": "One of SFT type",
+      "description": "Based on ERC3525"
+    },
+    "flexible": {
+      "name": "One of SFT type",
+      "description": "Based on ERC3525"
+    }
+  },
+  "logoURI": "",
+  "keywords": ["voucher", "nft", "vesting", "flexible"],
+  "tokens": [
+    {
+      "name": "SOLV Vesting SFT",
+      "address": "0x41fb9b28Df4800d018b834E0bd6b58e7b33B4Ac1",
+      "symbol": "TLC-SOLV",
+      "tags": ["vesting"],
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
+      "faceURI": "",
+      "description": "Time-locked SOLV Container desc",
+      "extensions": {
+        "voucher": {
+          "type": "Vesting",
+          "underlyingToken": {
+            "name": "SOLV",
+            "address": "0xda49639E56B09E2599b93e8193462EfFD2C73364",
+            "decimals": 18,
+            "symbol": "SOLV",
+            "chainId": 5,
+            "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png"
+          }
+        },
+        "markets": {
+          "primary": [],
+          "secondary": []
+        }
+      }
+    },
+    {
+      "name": "ERC20 Vesting SFT",
+      "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
+      "symbol": "TLC",
+      "tags": ["vesting"],
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "",
+      "faceURI": "",
+      "description": "Time-locked ERC20 Container - Vesting Universal Contract",
+      "extensions": {
+        "voucher": {
+          "type": "Vesting"
+        },
+        "markets": {
+          "primary": [],
+          "secondary": []
+        }
+      }
+    },
+    {
+      "name": "SOLV Vesting SFT",
+      "address": "0x41fb9b28Df4800d018b834E0bd6b58e7b33B4Ac1",
+      "symbol": "TLC-SOLV",
+      "tags": ["vesting"],
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
+      "faceURI": "",
+      "description": "Time-locked SOLV Container desc",
+      "extensions": {
+        "voucher": {
+          "type": "Vesting",
+          "underlyingToken": {
+            "name": "SOLV",
+            "address": "0x20a4862641e1298674b2c1A98F8aCD1eE6c67e5C",
+            "decimals": 18,
+            "symbol": "SOLV",
+            "chainId": 80001,
+            "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png"
+          }
+        },
+        "markets": {
+          "primary": [],
+          "secondary": []
+        }
+      }
+    },
+    {
+      "name": "ERC20 Vesting SFT",
+      "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
+      "symbol": "TLC",
+      "tags": ["vesting"],
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "",
+      "faceURI": "",
+      "description": "Time-locked ERC20 Container - Vesting Universal Contract",
+      "extensions": {
+        "voucher": {
+          "type": "Vesting"
+        },
+        "markets": {
+          "primary": [],
+          "secondary": []
+        }
+      }
+    }
+  ]
+}
