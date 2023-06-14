@@ -40,7 +40,7 @@
       "chainId": 5,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "",
-      "description": "Time-locked SOLV Container desc",
+      "description": "SOLV Vesting SFT",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "name": "ERC20 Vesting SFT",
+      "name": "Permissionless ERC-20 Container",
       "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
       "symbol": "TLC",
       "tags": ["vesting"],
@@ -68,7 +68,7 @@
       "chainId": 5,
       "logoURI": "",
       "faceURI": "",
-      "description": "Time-locked ERC20 Container - Vesting Universal Contract",
+      "description": "Permissionless ERC-20 Container",
       "extensions": {
         "voucher": {
           "type": "Vesting"
@@ -88,7 +88,7 @@
       "chainId": 80001,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "",
-      "description": "Time-locked SOLV Container desc",
+      "description": "SOLV Vesting SFT",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "name": "ERC20 Vesting SFT",
+      "name": "Permissionless ERC-20 Container",
       "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
       "symbol": "TLC",
       "tags": ["vesting"],
@@ -116,7 +116,7 @@
       "chainId": 80001,
       "logoURI": "",
       "faceURI": "",
-      "description": "Time-locked ERC20 Container - Vesting Universal Contract",
+      "description": "Permissionless ERC-20 Container",
       "extensions": {
         "voucher": {
           "type": "Vesting"
