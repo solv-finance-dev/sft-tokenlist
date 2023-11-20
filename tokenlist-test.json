@@ -32,7 +32,7 @@
   "keywords": ["voucher", "nft", "vesting", "flexible"],
   "tokens": [
     {
-      "name": "SOLV Vesting SFT",
+      "name": "SOLV Vesting Token",
       "address": "0x41fb9b28Df4800d018b834E0bd6b58e7b33B4Ac1",
       "symbol": "TLC-SOLV",
       "tags": ["vesting"],
@@ -40,7 +40,7 @@
       "chainId": 5,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "",
-      "description": "SOLV Vesting SFT",
+      "description": "SOLV Vesting Token is an SFT that includes the SOLV token and provides a tailored and adaptable release date. The SOLV tokens enclosed within it will be released according to a predetermined method after the flexible release date.",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "name": "Permissionless ERC-20 Container",
+      "name": "Time-Locked ERC-20 Container",
       "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
       "symbol": "TLC",
       "tags": ["vesting"],
@@ -68,7 +68,7 @@
       "chainId": 5,
       "logoURI": "",
       "faceURI": "",
-      "description": "Permissionless ERC-20 Container",
+      "description": "Time-Locked ERC-20 Container is a secure storage unit that locks ERC-20 tokens in a safe box, allowing for customized release options. You can set specific lock-up durations, release methods, and dates in order to enjoy the convenience of flexible token release.",
       "extensions": {
         "voucher": {
           "type": "Vesting"
@@ -80,7 +80,7 @@
       }
     },
     {
-      "name": "SOLV Vesting SFT",
+      "name": "SOLV Vesting Token",
       "address": "0x41fb9b28Df4800d018b834E0bd6b58e7b33B4Ac1",
       "symbol": "TLC-SOLV",
       "tags": ["vesting"],
@@ -88,7 +88,7 @@
       "chainId": 80001,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "",
-      "description": "SOLV Vesting SFT",
+      "description": "SOLV Vesting Token is an SFT that includes the SOLV token and provides a tailored and adaptable release date. The SOLV tokens enclosed within it will be released according to a predetermined method after the flexible release date.",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "name": "Permissionless ERC-20 Container",
+      "name": "Time-Locked ERC-20 Container",
       "address": "0xcC9A0b5a3f5Ce5124fd36cc26Aa8B29B7D1D8877",
       "symbol": "TLC",
       "tags": ["vesting"],
@@ -116,7 +116,7 @@
       "chainId": 80001,
       "logoURI": "",
       "faceURI": "",
-      "description": "Permissionless ERC-20 Container",
+      "description": "Time-Locked ERC-20 Container is a secure storage unit that locks ERC-20 tokens in a safe box, allowing for customized release options. You can set specific lock-up durations, release methods, and dates in order to enjoy the convenience of flexible token release.",
       "extensions": {
         "voucher": {
           "type": "Vesting"
