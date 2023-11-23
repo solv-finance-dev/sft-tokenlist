@@ -40,7 +40,7 @@
       "chainId": 5,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "https://tokenlist.sftlabs.io/images/SOLV-Vesting-Token.png",
-      "description": "SOLV Vesting Token is an SFT that includes the SOLV token and provides a tailored and adaptable release date. The SOLV tokens enclosed within it will be released according to a predetermined method after the flexible release date.",
+      "description": "SOLV Vesting Token is a SFT comprising the SOLV token and offering a customized and adjustable release schedule. The SOLV tokens enclosed within it will be released based on a predetermined method following the flexible release date.",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -68,7 +68,7 @@
       "chainId": 5,
       "logoURI": "",
       "faceURI": "https://tokenlist.sftlabs.io/images/Time-Locked-ERC20-Container.png",
-      "description": "Time-Locked ERC-20 Container is a secure storage unit that locks ERC-20 tokens in a safe box, allowing for customized release options. You can set specific lock-up durations, release methods, and dates in order to enjoy the convenience of flexible token release.",
+      "description": "Time-Locked ERC-20 Container serves as a secure storage unit that locks ERC-20 tokens within a protected enclosure, enabling a customized release schedule. Within this container, you can establish precise lock-up durations, release methods, and dates, ensuring a rigorously controlled and adaptable token release process.",
       "extensions": {
         "voucher": {
           "type": "Vesting"
@@ -88,7 +88,7 @@
       "chainId": 80001,
       "logoURI": "https://web3widgets.github.io/icons/token/SOLV.png",
       "faceURI": "https://tokenlist.sftlabs.io/images/SOLV-Vesting-Token.png",
-      "description": "SOLV Vesting Token is an SFT that includes the SOLV token and provides a tailored and adaptable release date. The SOLV tokens enclosed within it will be released according to a predetermined method after the flexible release date.",
+      "description": "SOLV Vesting Token is a SFT comprising the SOLV token and offering a customized and adjustable release schedule. The SOLV tokens enclosed within it will be released based on a predetermined method following the flexible release date.",
       "extensions": {
         "voucher": {
           "type": "Vesting",
@@ -116,7 +116,7 @@
       "chainId": 80001,
       "logoURI": "",
       "faceURI": "https://tokenlist.sftlabs.io/images/Time-Locked-ERC20-Container.png",
-      "description": "Time-Locked ERC-20 Container is a secure storage unit that locks ERC-20 tokens in a safe box, allowing for customized release options. You can set specific lock-up durations, release methods, and dates in order to enjoy the convenience of flexible token release.",
+      "description": "Time-Locked ERC-20 Container serves as a secure storage unit that locks ERC-20 tokens within a protected enclosure, enabling a customized release schedule. Within this container, you can establish precise lock-up durations, release methods, and dates, ensuring a rigorously controlled and adaptable token release process.",
       "extensions": {
         "voucher": {
           "type": "Vesting"
