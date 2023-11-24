@@ -32,7 +32,7 @@
   "keywords": ["voucher", "nft", "vesting", "flexible"],
   "tokens": [
     {
-      "name": "Stage Time-locked ERC20 Container",
+      "name": "Stage Time-locked BTCETF Container",
       "address": "0x2cA4f6f16E165C219805e284a62D36D4BA5887c2",
       "symbol": "TLC-BTCETF",
       "tags": ["vesting"],
@@ -40,7 +40,7 @@
       "chainId": 5000,
       "logoURI": "https://web3widgets.github.io/icons/token/BTC.png",
       "faceURI": "",
-      "description": "Stage Time-locked ERC20 Container",
+      "description": "Stage Time-locked BTCETF Container",
       "extensions": {
         "voucher": {
           "type": "Vesting",
