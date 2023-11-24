@@ -1,0 +1,49 @@
+{
+  "name": "Mantle Token",
+  "logoURI": "",
+  "keywords": ["defi"],
+  "timestamp": "2023-11-23T13:02:58.993+00:00",
+  "tokens": [
+    {
+      "chainId": 5000,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "logoURI": "https://tokenlist.sftlabs.io/token-logo/WMNT.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+      "name": "Wrapped Ether Mantle Bridge",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://tokenlist.sftlabs.io/token-logo/WETH.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.sftlabs.io/token-logo/USDT.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.sftlabs.io/token-logo/USDC.png"
+    },
+    {
+      "chainId": 5000,
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "name": "KTX Finance",
+      "symbol": "KTC",
+      "decimals": 18,
+      "logoURI": "https://tokenlist.sftlabs.io/token-logo/KTC.png"
+    }
+  ],
+  "version": { "minor": 3, "patch": 0 }
+}
