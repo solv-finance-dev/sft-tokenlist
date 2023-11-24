@@ -67,7 +67,7 @@
       "decimals": 18,
       "chainId": 5000,
       "logoURI": "",
-      "faceURI": "",
+      "faceURI": "https://tokenlist.sftlabs.io/images/Time-Locked-ERC20-Container.png",
       "description": "Time-Locked ERC-20 Container serves as a secure storage unit that locks ERC-20 tokens within a protected enclosure, enabling a customized release schedule. Within this container, you can establish precise lock-up durations, release methods, and dates, ensuring a rigorously controlled and adaptable token release process.",
       "extensions": {
         "voucher": {
