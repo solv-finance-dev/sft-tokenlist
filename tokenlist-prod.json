@@ -58,6 +58,26 @@
           "secondary": []
         }
       }
+    },
+    {
+      "name": "Time-Locked ERC-20 Container",
+      "address": "0x03379ff240a817a6a82872549c6a5A11D769616c",
+      "symbol": "TLC",
+      "tags": ["vesting"],
+      "decimals": 18,
+      "chainId": 5000,
+      "logoURI": "",
+      "faceURI": "",
+      "description": "Time-Locked ERC-20 Container serves as a secure storage unit that locks ERC-20 tokens within a protected enclosure, enabling a customized release schedule. Within this container, you can establish precise lock-up durations, release methods, and dates, ensuring a rigorously controlled and adaptable token release process.",
+      "extensions": {
+        "voucher": {
+          "type": "Vesting"
+        },
+        "markets": {
+          "primary": [],
+          "secondary": []
+        }
+      }
     }
   ]
 }
